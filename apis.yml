@@ -46,7 +46,7 @@ tags:
 - Company
 - Insurtech
 - Auto Insurance
-- Financial-Services
+- Financial Services
 - Mobile App
 - Consumer
 - Vehicle Coverage
@@ -58,6 +58,7 @@ tags_raw:
 - Mobile App
 - Consumer
 - Vehicle Coverage
+- Financial-Services
 common:
 - type: DomainSecurity
   url: security/good-driver-domain-security.yml
